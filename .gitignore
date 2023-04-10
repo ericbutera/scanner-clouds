@@ -27,3 +27,4 @@ bin/*
 __debug_bin
 *.yaml
 data/*
+.env
